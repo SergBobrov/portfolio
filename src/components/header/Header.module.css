@@ -1,0 +1,11 @@
+.header {
+    height: 5rem;
+    background-color: #a5ddf1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+}
+

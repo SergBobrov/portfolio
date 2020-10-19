@@ -1,0 +1,27 @@
+.SkillWrapper {
+    background-color: whitesmoke;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+}
+
+.skillContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.description {
+    text-align: center;
+}

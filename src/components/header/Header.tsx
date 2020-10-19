@@ -1,7 +1,14 @@
 import React from "react";
+import style from "./Header.module.css"
+import styleContainer from './../common/styles/container.module.css'
+import {Navigation} from "./navigation/Navigation";
 
-const Header = () => {
+export const Header = () => {
     return (
-        <div></div>
+        <div className={style.header}>
+                <Navigation/>
+        </div>
     )
 }
+
+
