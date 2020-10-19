@@ -1,11 +1,10 @@
 import React from 'react'
 import style from './Main.module.css'
-import styleContainer from './../common/styles/container.module.css'
 
 
-const Main = () => {
+export const Main = () => {
     return (
-        <div className={style.mainBlock}>
+        <div className={style.mainWrapper}>
             <div className={style.info}>
                 <span>Hi There</span>
                 <h1>Im Sergei Boborv</h1>
@@ -16,5 +15,3 @@ const Main = () => {
         </div>
     )
 }
-
-export default Main;

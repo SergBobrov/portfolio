@@ -1,0 +1,25 @@
+.myWorksWrapper {
+    background-color: #dbd0a4;
+    height: 100vh;
+    padding-top: 80px;
+}
+
+.myWorksContainer {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    }
+
+.works {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.title {
+    height: 80px;
+    width: 100%;
+    text-align: center;
+}

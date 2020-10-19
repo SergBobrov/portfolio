@@ -1,0 +1,19 @@
+.footerWrapper {
+    background-color: #8abefc;
+    height: 20vh;
+}
+
+.footerWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.links {
+    border: 1px solid;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}

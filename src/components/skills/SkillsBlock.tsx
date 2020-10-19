@@ -1,6 +1,6 @@
 import React from "react";
-import style from '../skills/SkillsBlock.module.css'
-import {Skill} from "../skills/skill-items/Skill";
+import style from './SkillsBlock.module.css'
+import {Skill} from "./skill-items/Skill";
 
 
 export const SkillsBlock = () => {

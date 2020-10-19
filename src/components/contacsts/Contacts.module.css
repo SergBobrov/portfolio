@@ -1,0 +1,28 @@
+.contactsWrapper {
+    background-color: #d6b3b3;
+    height: 60vh;
+    width: 100%;
+    padding-top: 70px;
+}
+
+.contactsContainer {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.form label{
+    height: 200px;
+    width: 300px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+}
+

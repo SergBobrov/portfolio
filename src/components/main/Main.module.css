@@ -1,4 +1,4 @@
-.mainBlock {
+.mainWrapper {
     height: 100vh;
     background-color: #efd4d8;
     display: flex;
@@ -7,7 +7,6 @@
     border: 1px solid;
     flex-wrap: wrap;
 }
-
 
 .info {
     width: 500px;
